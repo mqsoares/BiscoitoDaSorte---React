@@ -28,3 +28,11 @@ body {
 .container p {
   text-align: justify;
 }
+
+.container img {
+  width: 80%;
+}
+
+.openButton {
+  padding: 10px 15px;
+}
