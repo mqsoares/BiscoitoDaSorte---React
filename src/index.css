@@ -12,7 +12,6 @@ body {
   display: grid;
   height: 100vh;
   place-content: center;
-  /* font-family: 'Dancing Script', cursive; */
 }
 
 .container {
@@ -39,4 +38,10 @@ body {
 
 .openButton {
   padding: 10px 15px;
+  cursor: pointer;
+}
+
+.resPhrase {
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
 }
